@@ -1,5 +1,6 @@
 # [Indecision App](http://nickyvanurk.com/indecision-app/)
-React learning project.
+
+A variation of the classic to-do app.
 
 <img src="screenshot.png">
 
